@@ -1,0 +1,17 @@
+{
+  "name": "whiz_app",
+  "displayName": "whiz_app",
+  "expo": {
+    "name": "whiz_app",
+    "slug": "whiz_app",
+    "version": "1.0.1",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "android": {
+      "package": "com.sharpcodes19.whiz_app"
+    }
+  },
+  "facebookAppId": "865274427450569"
+}
